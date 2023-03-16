@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hotliquid/textutils-react-project.git/static/css/main.073c9b0a.css",
+    "main.js": "/hotliquid/textutils-react-project.git/static/js/main.483aa723.js",
+    "static/js/787.0cbdef75.chunk.js": "/hotliquid/textutils-react-project.git/static/js/787.0cbdef75.chunk.js",
+    "index.html": "/hotliquid/textutils-react-project.git/index.html",
+    "main.073c9b0a.css.map": "/hotliquid/textutils-react-project.git/static/css/main.073c9b0a.css.map",
+    "main.483aa723.js.map": "/hotliquid/textutils-react-project.git/static/js/main.483aa723.js.map",
+    "787.0cbdef75.chunk.js.map": "/hotliquid/textutils-react-project.git/static/js/787.0cbdef75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.483aa723.js"
+  ]
+}
